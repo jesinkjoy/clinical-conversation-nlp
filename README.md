@@ -1,6 +1,6 @@
 # 🧠 Clinical Conversation Classification using NLP
 
-This project focuses on classifying physician-patient conversations into 15 categories based on **Social Support Theory**, using both traditional machine learning and deep learning models. Completed as part of the INFO 617 – Text Analytics course at VCU.
+This project focuses on classifying physician-patient conversations into 15 categories based on **Social Support Theory**, using both traditional machine learning and deep learning models. 
 
 ---
 
